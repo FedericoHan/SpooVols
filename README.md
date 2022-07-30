@@ -16,3 +16,6 @@ Fix upside vols , also fix the timedelta .
 Fix the data pull (list of dataframes, clunky)
 Build dicitonary of previous positions and pnls?
 Also add current ones...flag when vol of the short strikes is lower can scoop back? 
+
+
+Add bpv to bond futures (basically delta * contract so 48$ for 5yr, 76$ for 10s)
